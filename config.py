@@ -29,4 +29,4 @@ MODES = {
 TLS_DOMAIN = os.environ.get("TLS_DOMAIN", "www.google.com")
 
 # Tag quảng cáo proxy từ @MTProxybot
-AD_TAG = os.environ.get("AD_TAG")
+# AD_TAG = os.environ.get("AD_TAG")
